@@ -29,6 +29,6 @@ Conversor de moedas: criar funções para cada tipo de conversão e chamá-las d
 [Repositório do código final da aula 4](https://codepen.io/imersao-dev/pen/wvergYX)   
 
 ### Conteúdo extra:
-Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um [vídeo extra](https://www.youtube.com/watch?v=c8Zac9hWbs8) para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!
+Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um [vídeo extra](https://www.youtube.com/watch?v=c8Zac9hWbs8) para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!    
 [Refazendo a aula 1 com outra linguagem de programação](https://www.youtube.com/watch?v=DsFb24TgJ0c)    
 [Como abrir um programa do CodePen no VSCode](https://www.youtube.com/watch?v=xvkuNF_8Coc)   
