@@ -24,9 +24,9 @@ Pesquisar e aprender a diferença entre == e ===
 [Playlist Scuba Dev no Youtube](https://www.youtube.com/watch?v=wr9w6E9hHE4&list=PLh2Y_pKOa4UekCLUlAmQ89uSMWNlHvhR3)   
 
 ### Conteúdos extras:
-[Strict equality (===)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
-[Math.random() no MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-[Operadores com Javascript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)
+[Strict equality (===)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)      
+[Math.random() no MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)      
+[Operadores com Javascript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)    
 
 ### Como compartilhar seu CodePen:
 Clique na opção Settings no canto superior direito;
