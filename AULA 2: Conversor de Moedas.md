@@ -20,15 +20,15 @@ Conversor de temperaturas entre farenheit, kelvin e celcius.
 Adicionar uma linha ao projeto desenvolvido para que apareça o valor em bitcoin.   
 
 ### Links importantes para você acompanhar a aula:   
-Codepen - editor de código online (https://codepen.io/)   
-Operadores boleanos (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)   
-Repositório do código final da aula 1 (https://codepen.io/imersao-dev/details/xxdJwRe)   
+[Codepen - editor de código online](https://codepen.io/)    
+[Operadores boleanos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)   
+[Repositório do código final da aula 1](https://codepen.io/imersao-dev/details/xxdJwRe)   
 
 ### Conteúdos extras:
-JavaScript segundo a documentação (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)   
-Primeiros passos na programação (https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/)   
-O que é Javascript? (https://www.youtube.com/watch?v=NaVSbnnV75Q)   
-Evolução do Javascript (https://www.youtube.com/watch?v=Bmw_6oOvO3s)   
+[JavaScript segundo a documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)   
+[Primeiros passos na programação](https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/)   
+[O que é Javascript?](https://www.youtube.com/watch?v=NaVSbnnV75Q)   
+[Evolução do Javascript](https://www.youtube.com/watch?v=Bmw_6oOvO3s)    
 
 ### Como compartilhar seu CodePen:   
 Clique na opção Settings no canto superior direito; 
@@ -36,4 +36,4 @@ Selecione a opção Pen Details (Detalhes);
 No campo Pen Title você pode dar o nome do seu projeto;    
 No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);  
 Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev, #alura   
-Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!  
+Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!   
