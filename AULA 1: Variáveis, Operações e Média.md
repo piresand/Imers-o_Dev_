@@ -34,6 +34,7 @@ Colocar a conta inteira da média em apenas uma linha
 [Primeiros passos na programação](https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/)   
 [O que é Javascript?](https://www.youtube.com/watch?v=NaVSbnnV75Q)    
 [5 minutos de HTML](https://www.youtube.com/watch?v=3oSIqIqzN3M)    
+[Git e Github](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8)  
 
 ### Como compartilhar seu CodePen:     
 Clique na opção Settings no canto superior direito;    
