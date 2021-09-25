@@ -13,7 +13,7 @@ Fazemos a lógica em Javascript para alterar entre os temas
 
 [Design no Figma](https://www.figma.com/file/I4p9ndfOKgjDKalFwd5ASr/Imers%C3%A3o-Dev---Aula-10?node-id=0%3A1)   
 [Codepen - editor de código online](https://codepen.io/)   
-[GitHub](https://github.com/)   
+[Imersão Dev Git e Github](https://www.youtube.com/watch?v=R_ksqahsv-Y)   
 [Pasta com ícones das conquistas](https://drive.google.com/drive/folders/1QjIKZdSj12SlEi_GLuuY9mC6Z_s9dHU9)   
 [Código final da aula 9](https://codepen.io/imersao-dev/pen/bGWyerL)  
 [Código final da aula 10](https://codepen.io/imersao-dev/pen/VwbOjYL)   
