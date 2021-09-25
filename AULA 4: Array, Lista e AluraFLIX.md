@@ -9,7 +9,7 @@ https://codepen.io/imersao-dev/pen/15c30c8f7a2a723b9cbcc0943995be3f
 Nesta aula vamos ver a primeira delas, array, um tipo de lista de elementos, assim como algumas ferramentas para alterarmos e trabalharmos com estas listas. Depois de criarmos uma lista, vamos exibir os pôsters de todos os nossos filmes preferidos na tela do navegador.    
  
 ### Conteúdo detalhado desta aula       
-Criar uma primeira array de filmes usando a sintaxe [];    
+Criar uma primeira array de filmes usando a sintaxe [ ];    
 Utilizar o método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);    
 Descobrir a quantidade de elementos em uma array com o método array.length;    
 Selecionar elementos de uma array utilizando a sintaxe array[número], lembrando sempre que o primeiro índice começa com zero, ou seja, array[0] para o primeiro elemento;     
