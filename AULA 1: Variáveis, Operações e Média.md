@@ -36,11 +36,11 @@ Colocar a conta inteira da média em apenas uma linha
 [O que é Javascript?](https://www.youtube.com/watch?v=NaVSbnnV75Q)    
 [5 minutos de HTML](https://www.youtube.com/watch?v=3oSIqIqzN3M)    
 
-Como compartilhar seu CodePen:
-Clique na opção Settings no canto superior direito;
-Selecione a opção Pen Details (Detalhes);
-No campo Pen Title você pode dar o nome do seu projeto;
-No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);
-Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
-Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais! 
+### Como compartilhar seu CodePen:     
+Clique na opção Settings no canto superior direito;    
+Selecione a opção Pen Details (Detalhes);   
+No campo Pen Title você pode dar o nome do seu projeto;   
+No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);  
+Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura   
+Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!    
 
