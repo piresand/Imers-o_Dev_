@@ -28,10 +28,10 @@ Pesquisar e aprender a diferença entre == e ===
 [Math.random() no MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)      
 [Operadores com Javascript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)    
 
-### Como compartilhar seu CodePen:
-Clique na opção Settings no canto superior direito;
-Selecione a opção Pen Details (Detalhes);
-No campo Pen Title você pode dar o nome do seu projeto;
-No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);
-Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
-Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
+### Como compartilhar seu CodePen:  
+Clique na opção Settings no canto superior direito;  
+Selecione a opção Pen Details (Detalhes);  
+No campo Pen Title você pode dar o nome do seu projeto;  
+No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);  
+Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura  
+Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!  
