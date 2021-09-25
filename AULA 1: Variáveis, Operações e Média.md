@@ -1,11 +1,10 @@
-VARIÁVEIS, OPERAÇÕES E MÉDIA
-
+### VARIÁVEIS, OPERAÇÕES E MÉDIA
 Nesta primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprender o que são variáveis e como realizar operações! O código da aula inicial para você acompanhar está aqui:
 
 https://codepen.io/imersao-dev/pen/38cf7906dcec352d8dbd0f8c4c7c1b10
 
-Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
-Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, arredondamento e console.
+Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.   
+Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, arredondamento e console.  
 
 ### Conteúdo detalhado desta aula  
 Criar uma conta no CodePen;  
