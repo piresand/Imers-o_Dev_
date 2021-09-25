@@ -38,3 +38,14 @@ A partir de agora, você já pode pensar em qual área deseja trabalhar envolven
 [Projetos para praticar JS](https://www.youtube.com/playlist?list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9)  
 [Como estudar melhor?](https://www.youtube.com/playlist?list=PL-kOa62ayb1wQPeBChJ6KBILRLL2AHoZU)  
 [Dev em T](https://www.alura.com.br/dev-em-t)   
+
+
+### Como compartilhar seu CodePen:     
+Clique na opção Settings no canto superior direito;    
+Selecione a opção Pen Details (Detalhes);   
+No campo Pen Title você pode dar o nome do seu projeto;   
+No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);  
+Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura   
+Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!    
+
+
