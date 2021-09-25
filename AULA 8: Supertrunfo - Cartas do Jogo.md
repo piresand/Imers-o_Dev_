@@ -20,16 +20,16 @@ Transformar as funções exibirCartaMaquina() e exibirCartaJogador() em apenas u
 Utilizar seus personagens e jogos preferidos nesse projeto   
 
 ### Links importantes para você acompanhar a aula
-[Codepen - editor de código online](https://codepen.io/)
-[HTML, CSS e JavaScript, quais as diferenças](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
-[Usando o Vscode](https://www.youtube.com/watch?v=xvkuNF_8Coc)
-[Primeira aula da imersão com Python](https://www.youtube.com/watch?v=DsFb24TgJ0c)
-[Repositório do código final da aula 7](https://codepen.io/imersao-dev/pen/ZEyXrBJ?editors=0010)
+[Codepen - editor de código online](https://codepen.io/)   
+[HTML, CSS e JavaScript, quais as diferenças](https://www.alura.com.br/artigos/html-css-e-js-definicoes)   
+[Usando o Vscode](https://www.youtube.com/watch?v=xvkuNF_8Coc)  
+[Primeira aula da imersão com Python](https://www.youtube.com/watch?v=DsFb24TgJ0c)   
+[Repositório do código final da aula 7](https://codepen.io/imersao-dev/pen/ZEyXrBJ?editors=0010)  
 
-### Como compartilhar seu CodePen
-Clique na opção Settings no canto superior direito;
-Selecione a opção Pen Details (Detalhes);
-No campo Pen Title você pode dar o nome do seu projeto;
-No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);
-Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
-Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
+### Como compartilhar seu CodePen  
+Clique na opção Settings no canto superior direito;   
+Selecione a opção Pen Details (Detalhes);   
+No campo Pen Title você pode dar o nome do seu projeto;   
+No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);    
+Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura   
+Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!  
