@@ -35,6 +35,8 @@ Colocar a conta inteira da média em apenas uma linha
 [O que é Javascript?](https://www.youtube.com/watch?v=NaVSbnnV75Q)    
 [5 minutos de HTML](https://www.youtube.com/watch?v=3oSIqIqzN3M)    
 [Git e Github](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8)  
+[5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!](https://www.youtube.com/watch?v=3oSIqIqzN3M&list=PLhkO7OMKgT_p3VoB47VHdLGpYTzxYTv8R&index=3)  
+[O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?](https://www.youtube.com/watch?v=dp0zB4n3MUs&list=PLhkO7OMKgT_p3VoB47VHdLGpYTzxYTv8R&index=6)  
 
 ### Como compartilhar seu CodePen:     
 Clique na opção Settings no canto superior direito;    
